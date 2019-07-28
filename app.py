@@ -45,7 +45,8 @@ while pygame.joystick.get_count()>0:
 			elif event.button == 1: #btn2
 				pyautogui.rightClick()
 			elif event.button == 7: #R2
-				print("TODO...")
+				MOUSE_SENSITIVITY = 30
+				SCROLL_SENSITIVITY = 50
 			elif event.button == 6: #L2
 				pyautogui.hotkey('alt', 'ctrl', 'tab')
 	
