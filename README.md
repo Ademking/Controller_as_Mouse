@@ -12,6 +12,10 @@ You can :
 
 ![](tuto.png)
 
+## Note
+
+You can modify buttons as you like.. it's very easy
+
 # How to run
 
 1. install requirements
