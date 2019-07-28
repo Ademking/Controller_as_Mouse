@@ -10,6 +10,8 @@ You can :
 * ALT + TAB between apps (my favourite shortcut)
 * Change the mouse speed
 
+![](tuto.png)
+
 # How to run
 
 1. install requirements
