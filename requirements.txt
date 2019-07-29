@@ -30,7 +30,7 @@ PyScreeze==0.1.22
 pythonz-bd==1.11.4
 PyTweening==1.0.3
 pywin32==224
-requests==2.18.4
+requests==2.20.0
 resumable-urlretrieve==0.1.5
 six==1.11.0
 trunofficial==0.2.4
